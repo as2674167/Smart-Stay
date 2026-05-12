@@ -4,10 +4,9 @@
 
 ### A full-stack Airbnb-inspired vacation rental platform
 
-[
-[
-[
-[
+
+
+
 
 </div>
 
